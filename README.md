@@ -5,3 +5,12 @@ Ao atingir 50 pontos, enfrenta um boss. Inimigos aparecem de vários pontos, e o
 ser abatido por projéteis ou colisões. Power-ups podem ser coletados ao derrotar inimigos,<br>
 alterando os status do jogador.
 
+## ***CONTROLES***
+
+- W: Cima; ⬆︎ 
+- A: Esquerda; ⬅︎ 
+- S: Baixo; ⬇︎ 
+- D: Direita; ➡︎ 
+- Enter: Atira;
+- Esc: Pausar.
+
